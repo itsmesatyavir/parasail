@@ -1,0 +1,19 @@
+{
+  "name": "parasail-bot",
+  "version": "1.0.0",
+  "description": "Automatic Node Setup With Private Key",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "ethers": "^5.7.2"
+  },
+  "devDependencies": {},
+  "keywords": ["node", "automation", "blockchain", "private-key"],
+  "author": "Forestarmy",
+  "license": "MIT"
+}
